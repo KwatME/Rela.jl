@@ -1,15 +1,21 @@
-Small Intestine =Con=> Duodenum, Jejunum, Illeum, Enterocyte
+##
 
-Enterocyte ==> "Absorbing Fe++ is more efficient than Fe+++. This stores Fe++."
-Enterocyte =Con=> Ferritin, Ferroportin
-Enterocyte =Imp=> Fe++, Fe+++
+Small Intestine =Contain=> Duodenum, Jejunum, Illeum, Enterocyte
 
-Helicobacter pylori =Dec=> GI Absorption
+GI Absorption =Increase=> Fe++, B3, B12
 
-GI Bleed =Dec=> GI Absorption, Ferritin
+##
 
-Celiac Disease =Dec=> GI Absorption, Ferritin
+GI Bleed =Decrease=> GI Absorption, Ferritin
 
-GI Cancer =Dec=> GI Absorption, Ferritin
+GI Cancer =Increase=> GI Bleed
 
-GI Absorption =Inc=> Fe++, B3, B12
+##
+
+Enterocyte ==> "Absorbing Fe++ is more efficient than Fe+++."
+
+Enterocyte ==> "This stores Fe++."
+
+Enterocyte =Contain=> Ferritin, Ferroportin
+
+Enterocyte =Import=> Fe++, Fe+++

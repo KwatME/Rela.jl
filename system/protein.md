@@ -1,18 +1,27 @@
-Ferroportin =Exp=> Fe++, Fe+++
+##
 
-Plasma =Con=> Ferritin, Transferrin
+Ferroportin =Export=> Fe++, Fe+++
 
-Ferritin =Bin=> Fe++
-Ferritin =Bec=> Hemosidering
+##
 
-Transferrin =Bin=> Fe++, Transferrin Receptor
+Ferritin =Bind=> Fe++
 
-Hemosidering =Bin=> Fe++
+Ferritin =Become=> Hemosiderin
 
-IL3 =Inc=> Erythropoiesis
+##
 
-IL6 =Inc=> Erythropoiesis
+Transferrin =Bind=> Fe++, Transferrin Receptor
 
-GSF-GM =Inc=> Erythropoiesis
+##
 
-EPO =Inc=> Erythropoiesis
+Hemosiderin =Bin=> Fe++
+
+##
+
+IL3 =Increase=> Erythropoiesis
+
+IL6 =Increase=> Erythropoiesis
+
+GSF-GM =Increase=> Erythropoiesis
+
+EPO =Increase=> Erythropoiesis
