@@ -4,6 +4,10 @@ RBC =LowIncrease=> Anemia, Ferritin
 
 RBC =Contain=> Hg
 
+RBC =Increase=> Hematocrit
+
+Hematocrit ==> "This does not go above 56%."
+
 ##
 
 Hg =Bind=> O₂
