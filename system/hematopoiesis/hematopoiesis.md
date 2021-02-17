@@ -8,7 +8,7 @@ HSC =Become=> MPC, LPC
 
 MPC =Become=> Basophilic Band, Neutrophilic Band, Eosinophilic Band, Monocyte, Erythroblast, Megakaryocyte
 
-LPC =Bec=> NKC, Naive TC, Naive BC
+LPC =Bec=> NKC, Naive T Cell, Naive B Cell
 
 ##
 
@@ -20,7 +20,9 @@ Neutrophilic Band =Become=> Neutrophil
 
 Eosinophilic Band =Become=> Eosinophil
 
-## Monocytopoiesis
+##
+
+Monocytopoiesis =Make=> Monocyte
 
 Monocyte =Become=> Macrophage, Dendritic Cell
 
@@ -34,15 +36,19 @@ Erythropoiesis ==> "When Hg drops below 8, a normal marrow response elevates ret
 
 Erythropoiesis =Decrease=> Fe++
 
+Erythropoiesis ==> "Without erythropoiesis, Hg decreases 1mg/week. If it declines faster, bleeding or hemolysis may be happening."
+
 Erythroblast =Contain=> Transferrin Receptor, Ferritin
 
 Erythroblast =Become=> Reticulocyte
 
 Reticulocyte ==> "This lacks nucleus."
 
-Reticulocyte ==> "This exits the marrow, circulates in the blood for 1 day, and becomes a RBC."
+Reticulocyte ==> "This develops in the marrow for 3 days, exits the marrow, circulates in the blood for 1 day, and becomes a RBC."
 
-Reticulocyte =Become=> RBC
+Reticulocyte ==> "2% of RBC is reticulocyte."
+
+Reticulocyte =Become=> Spherocyte, RBC
 
 ##
 
@@ -53,5 +59,7 @@ Megakaryocyte ==> "This develops with endomitosis. Ploidity ranges from 4 to 64.
 Megakaryocyte =Become=> Platelet
 
 ##
+
+Lymphopoiesis ==> "This completes not in the marrow but in thymus or lymphnode."
 
 WBC =Classify=> Neutrophil, Lymphocyte

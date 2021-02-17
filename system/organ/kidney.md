@@ -1,3 +1,5 @@
 ##
 
-Kidney =Make=> EPO
+Kidney =Contain=> Ferritin
+
+Kidney =Make=> EPO, Hemosiderin

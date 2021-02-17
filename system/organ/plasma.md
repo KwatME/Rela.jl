@@ -1,6 +1,6 @@
 ##
 
-Plasma =Contain=> Fe++, Ferritin, Transferrin
+Plasma =Contain=> Fe++, Ferritin, Transferrin, Hepatoglobin
 
 ##
 

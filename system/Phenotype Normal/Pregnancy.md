@@ -5,3 +5,9 @@ Pregnancy ==> "Pregnancy increases plasma volume by 50% but erythropoiesis less 
 Pregnancy =Increase=> Plasma
 
 Pregnancy =Increase=> Erythropoiesis
+
+Pregnancy =Increase=> Pre-Eclampsia
+
+Pre-Eclampsia =Become=> Eclampsia
+
+Pre-Eclampsia =Increase=> Thrombosis
