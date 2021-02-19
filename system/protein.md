@@ -99,3 +99,11 @@ Anti-Nicotinic Acetylcholine Receptor =Decrease=> Neuromuscular Junction
 MHC ==> "HLA"
 
 MHC ==> "MHC matched allograft from an unrelated donor is as good as from a relative."
+
+##
+
+ABL =Increase=> Leukemia
+
+##
+
+BRAF =Increase=> Hairy Cell Leukemia
