@@ -1,7 +1,0 @@
-## Name
-
-## Pathophysiology
-
-## Epidemiology
-
-## Treatment

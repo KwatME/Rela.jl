@@ -93,3 +93,9 @@ Bilirubin Conjugated =Increase=> Scleral Icterus
 Anti-Nicotinic Acetylcholine Receptor =Increase=> Myasthenia Gravis
 
 Anti-Nicotinic Acetylcholine Receptor =Decrease=> Neuromuscular Junction
+
+##
+
+MHC ==> "HLA"
+
+MHC ==> "MHC matched allograft from an unrelated donor is as good as from a relative."

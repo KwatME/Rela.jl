@@ -4,11 +4,13 @@ Hematopoiesis ==> "Chromosome condenses with development."
 
 Hematopoiesis =Classify=> Granulopoiesis, Monocytopoiesis, Erythropoiesis, Thrombopoiesis, Lymphopoiesis
 
-HSC =Become=> MPC, LPC
+Hematopoietic Stem Cell =Become=> Myeloid Progenitor Cell, Lymphoid Progenitor Cell
 
-MPC =Become=> Basophilic Band, Neutrophilic Band, Eosinophilic Band, Monocyte, Erythroblast, Megakaryocyte
+Hematopoietic Stem Cell =LowIncrease=> Anaplastic Anemia
 
-LPC =Bec=> NKC, Naive T Cell, Naive B Cell
+Myeloid Progenitor Cell =Become=> Basophilic Band, Neutrophilic Band, Eosinophilic Band, Monocyte, Erythroblast, Megakaryocyte
+
+Lymphoid Progenitor Cell =Bec=> NKC, Naive T Cell, Naive B Cell
 
 ##
 
