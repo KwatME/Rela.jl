@@ -18,7 +18,7 @@ Naive B Cell =Become=> Chronic Lymphoid Leukemia, Mantle Lymphoma
 
 ##
 
-B Cell =Become=> Follicular Lymphoma, Burkitt Lymphoma, Diffuse Large B Cell Lymphoma, Hodgkin Lymphoma
+B Cell =Become=> Follicular Lymphoma, Burkitt Lymphoma, Hodgkin Lymphoma, Diffuse Large B Cell Lymphoma
 
 ##
 
@@ -26,9 +26,9 @@ Effector B Cell =Become=> Chronic Lymphoid Leukemia, Mantle Lymphoma, Diffuse La
 
 ##
 
-Follicular Lymphoma ==> "Follicular proliferation without mantle zone."
+Mantle Lymphoma ==> "Lymphoma from the mantle zone."
 
-Follicular Lymphoma ==> "Follicular lymphoma is not treated unless it worsens."
+Mantle Lymphoma ==> "Like follicular lymphoma."
 
 ##
 
@@ -38,9 +38,9 @@ BCR-ABL Fusion =Increase=> Follicular Lymphoma
 
 ##
 
-Diffuse Large B Cell Lymphoma ==> "The most common adult lymphom."
+Follicular Lymphoma ==> "Follicular proliferation without mantle zone."
 
-Diffuse Large B Cell Lymphoma ==> "Can be outside of lymphonode."
+Follicular Lymphoma ==> "Follicular lymphoma is not treated unless it worsens."
 
 ##
 
@@ -50,12 +50,20 @@ Burkitt Lymphoma ==> "70% is EBV associated."
 
 ##
 
+Hodgkin Lymphoma ==> "Hodgkin cells are sparse."
+
+Hodgkin Lymphoma =Contain=> CD30, CD15
+
+##
+
+Diffuse Large B Cell Lymphoma ==> "The most common adult lymphoma."
+
+Diffuse Large B Cell Lymphoma ==> "Can be outside of lymphonode."
+
+##
+
 T Cell =Become=> Anaplastic Large Cell Lymphoma
 
 NK Cell =Become=> Anaplastic Large Cell Lymphoma
 
 Anaplastic Large Cell Lymphoma ==> "Can be outside of lymphonode."
-
-##
-
-Hodgkin Lymphoma =Contain=> CD30, CD15
