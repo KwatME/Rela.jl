@@ -107,3 +107,11 @@ ABL =Increase=> Leukemia
 ##
 
 BRAF =Increase=> Hairy Cell Leukemia
+
+##
+
+BCR ==> "B cell receptor"
+
+##
+
+BCL =Decrease=> Apoptosis

@@ -8,9 +8,49 @@ Hematopoietic Stem Cell =Become=> Myeloid Progenitor Cell, Lymphoid Progenitor C
 
 Hematopoietic Stem Cell =LowIncrease=> Anaplastic Anemia
 
+##
+
 Myeloid Progenitor Cell =Become=> Basophilic Band, Neutrophilic Band, Eosinophilic Band, Monocyte, Erythroblast, Megakaryocyte
 
-Lymphoid Progenitor Cell =Bec=> NKC, Naive T Cell, Naive B Cell
+##
+
+Lymphoid Progenitor Cell =Bec=> NKC, Pre-T Cell, Pre-B Cell
+
+##
+
+Pre-T Cell =Become=> Naive T Cell
+
+##
+
+Naive T Cell =Become=> Helper T Cell, Cytotoxic T Cell
+
+##
+
+Pre-B Cell =Contain=> PAX, TDT
+
+Pre-B Cell =Become=> Naive B Cell
+
+##
+
+Naive B Cell =Contain=> CD20
+
+Naive B Cell =Go=> Lymphnode
+
+Naive B Cell =Become=> B Cell
+
+##
+
+B Cell =Contain=> CD20
+
+B Cell =Become=> Effector B Cell
+
+##
+
+Effector B Cell =Contain=> Plasma B Cell, Memory B Cell
+
+##
+
+Plasma Cell =Contain=> CD138
 
 ##
 

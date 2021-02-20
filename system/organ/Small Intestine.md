@@ -1,8 +1,12 @@
 ##
 
-Small Intestine =Contain=> Duodenum, Jejunum, Illeum, Enterocyte
+Small Intestine =Contain=> Duodenum, Jejunum, Illeum, Enterocyte, Peyer Patch
 
 GI Absorption =Increase=> Fe++, B9, B12
+
+##
+
+Peyer Patch =Contain=> Lymphnode
 
 ##
 

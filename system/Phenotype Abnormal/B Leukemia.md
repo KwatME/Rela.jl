@@ -8,7 +8,7 @@ BCR-ABL Fusion ==> "Philadelphia chromosome."
 
 BCR-ABL Fusion =Contain=> BCR, ABL
 
-BCR-ABL Fusion ==> B Leukemia
+BCR-ABL Fusion =Increase=> B Leukemia
 
 ##
 
