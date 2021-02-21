@@ -2,4 +2,4 @@
 
 Liver =Function=> Erythropoiesis
 
-Liver =Make=> Transferrin, Ferritin, Hepcidin
+Liver =Make=> Transferrin, Ferritin, Hepcidin, TPO

@@ -2,11 +2,11 @@
 
 Hematopoiesis ==> "Chromosome condenses with development."
 
-Hematopoiesis =Classify=> Granulopoiesis, Monocytopoiesis, Erythropoiesis, Thrombopoiesis, Lymphopoiesis
+Hematopoiesis =Classify=> Myelopoiesis, Lymphopoiesis
+
+Myelopoiesis ==> "Granulopoiesis starts near the bone and moves away from it with development. Granules increase with development. (Bone may be the source of the chemicals stored in the granules.)"
 
 Hematopoietic Stem Cell =Become=> Myeloid Progenitor Cell, Lymphoid Progenitor Cell
-
-Hematopoietic Stem Cell =LowIncrease=> Anaplastic Anemia
 
 ##
 
@@ -14,7 +14,7 @@ Myeloid Progenitor Cell =Become=> Basophilic Band, Neutrophilic Band, Eosinophil
 
 ##
 
-Lymphoid Progenitor Cell =Bec=> NKC, Pre-T Cell, Pre-B Cell
+Lymphoid Progenitor Cell =Become=> NKC, Pre-T Cell, Pre-B Cell
 
 ##
 
@@ -50,11 +50,6 @@ Effector B Cell =Contain=> Plasma B Cell, Memory B Cell
 
 ##
 
-Plasma Cell =Contain=> CD138
-
-##
-
-Granulopoiesis ==> "This starts near the bone and moves away from it with development. Granules increase with development. (Bone may be the source of the chemicals stored in the granules.)"
 
 Basophilic Band =Become=> Basophil
 

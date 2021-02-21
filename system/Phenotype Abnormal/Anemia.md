@@ -11,3 +11,7 @@ Microcytic Anemia ==> "This is Fe++ deficient anemia."
 Macrocytic Anemia ==> "There is enough Fe++ but some other problem in erythropoiesis."
 
 Macrocytic =Classify=> Megaloblastic Anemia, Non-Megaloblastic Anemia
+
+##
+
+Hematopoietic Stem Cell =LowIncrease=> Anaplastic Anemia

@@ -6,6 +6,8 @@ Lymphoma ==> "Stage 1: 1 lymphnode; stage 2: lymphnodes on one side of the diaph
 
 Lymphoma =Classify=> Non-Hodgkin Lymphoma, Hodgkin Lymphoma
 
+Non-Hodgkin Lymphoma ==> "Antibody toxicity is lower and mass effect is higher."
+
 Lymphoma ==> "Origin: B cell 85% and T cell 15%."
 
 Lymphoma ==> "Prognosis: myeloma < leukemia < non-Hodgkin lymphoma < Hodgkin lymphoma."

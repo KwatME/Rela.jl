@@ -2,4 +2,4 @@
 
 Kidney =Contain=> Ferritin
 
-Kidney =Make=> EPO, Hemosiderin
+Kidney =Make=> EPO, TPO, Hemosiderin

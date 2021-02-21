@@ -112,6 +112,32 @@ BRAF =Increase=> Hairy Cell Leukemia
 
 BCR ==> "B cell receptor"
 
+BCR =Contain=> Heavy Chain, Light Chain
+
+Heavy Chain =Classify=> IgM, IgA, IgG, IgE, IgD
+
 ##
 
 BCL =Decrease=> Apoptosis
+
+##
+
+Antibody =Decrease=> Kidney Function, Organ Function
+
+##
+
+GMCSF, IL3 =Increase=> Myelopoiesis
+
+##
+
+IL4 =Increase=> Basophil
+
+IL5 =Increase=> Eosinopil
+
+IL6, GCSF =Increase=> Neutrophil
+
+##
+
+TGFβ =Decrease=> Hematopiesis
+
+MIP1 =Decrease=> Hematopiesis
