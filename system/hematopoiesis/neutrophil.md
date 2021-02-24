@@ -138,8 +138,6 @@ Infection, Inflammation, Cancer =Increase=> Neutrophil, Myelopoiesis
 
 Chronic Myeloid Leukemia =Increase=> Myelopoiesis
 
-Polycythemia Vera =Increase=> Erythropoiesis
-
-Essential Thrombocythemia =Increase=> Thrombopoiesis
+##
 
 Corticosteroid, Smoking, Epinephrine, Stress, Sickle Cell Anemia =Increase=> Neutrophil

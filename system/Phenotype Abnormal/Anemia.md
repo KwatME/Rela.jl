@@ -15,3 +15,17 @@ Macrocytic =Classify=> Megaloblastic Anemia, Non-Megaloblastic Anemia
 ##
 
 Hematopoietic Stem Cell =LowIncrease=> Anaplastic Anemia
+
+##
+
+EtOH =Increase=> Macrocytic Anemia
+
+B12 =LowIncrease=> Macrocytic Anemia
+
+B9 =LowIncrease=> Macrocytic Anemia
+
+Thyroid Hormone =LowIncrease=> Macrocytic Anemia
+
+Acute Myeloid Leukemia =Increase=> Macrocytic Anemia
+
+Hydroxyurea =Increase=> Macrocytic Anemia
