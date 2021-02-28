@@ -100,6 +100,8 @@ MHC ==> "HLA"
 
 MHC ==> "MHC matched allograft from an unrelated donor is as good as from a relative."
 
+MHC ==> "There is less recombination in the MHC genomic regions, so 1/4 of siblings have the identical sequence."
+
 ##
 
 ABL =Increase=> Leukemia
@@ -141,3 +143,25 @@ IL6, GCSF =Increase=> Neutrophil
 TGFβ =Decrease=> Hematopiesis
 
 MIP1 =Decrease=> Hematopiesis
+
+##
+
+2,3BPG =/\=> Globulin β Subunit
+
+Altitude =//=> 2,3BPG
+
+Hemoglobin ==> "90% RBC weight."
+
+RBC =Contain=> 2,3BPG
+
+##
+
+RBC ==( "ABO antigens are carbohydrates and Rh antigens are proteins. They develop by few months old. Under normal circumstances, an antigen and its antibody do not coexist. People with blood type O have RBC lacking both A and B antigens and have anti-RBC A and B, so they are universal RBC donors. People with blood type AB have RBCs with both A and B antigens and lack antibodies against them, so they are universal plasma donors. Direct antiglobulin test mixes a person's things with its own things. Indirect antiglobulin test mixes a person's things with testing things. Forward typing is an indirect typing to test a patient's RBC. Reverse typing is in indirect typing to test patient's antibodies. Anti-D is an IgG that can cross placenta. It binds to Rh."
+
+Blood == "Fresh frozen plasma has all coagulation factors. Cryoprecipitate has factor 8, fibrinogen, and vWF. If possible, give only what is missing. Give RBC if it is below 7. 1 RBC unit adds 1. Give platelet if it is below 10. 1 platelet unit adds 50. Give cryoprecipitate if fibrinogen is below 100. 10 fibrinogen units add 100. FFP is becoming increasingly unpopular. 1ml/kg FFP adds 1%."
+
+TRALI == "1% of all transfusions. Anti-MHC or anti-neutrophil antibodies attack the lungs and cause ARDS."
+
+TRALI =/\=> O2, Blood Pressure
+
+TACO == "More common than TRALI. Volume overload."

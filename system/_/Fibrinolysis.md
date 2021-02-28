@@ -1,0 +1,11 @@
+# -
+
+Fibrin
+
+# / 
+
+D Dimer
+
+# ^
+
+Stroke
