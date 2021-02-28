@@ -16,16 +16,20 @@ add(url="https://github.com/KwatME/Rela.jl")
 
 See [examples](notebook/example.ipynb).
 
-##
+# " (comment)
 
-Increase
+# { (contain)
 
-Decrease
+# > (become)
 
-HighDecrease
+# + (make)
 
-LowIncrease
+# - (break)
 
-Contain
+# / (increase amount)
 
-Become
+# \ (decrease amount)
+
+# ^ (increase function)
+
+# v (decrease function)
