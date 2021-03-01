@@ -6,4 +6,4 @@ TDT
 
 # >
 
-Naive B Cell
+Naive B

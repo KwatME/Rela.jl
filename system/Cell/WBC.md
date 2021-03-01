@@ -1,5 +1,0 @@
-# {
-
-Granulocyte
-
-Lymphocyte

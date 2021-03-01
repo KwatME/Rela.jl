@@ -1,7 +1,0 @@
-# +
-
-Monocyte
-
-Macrophage
-
-Dendritic Cell

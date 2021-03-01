@@ -1,3 +1,16 @@
+# +
+
+Reticulocyte
+
+
+
+
+
+
+
+
+
+
 Erythropoiesis ==> "This happens around a macrophage."
 
 Erythropoiesis ==> "Breathing brings in more O2 in a newborn and this increase in O2 slows down erythropoiesis. [erythroblast] reaches the maximum 10 days after birth and a physiologic anemia follows. In response, EPO increases and restimulates erythropoiesis."
