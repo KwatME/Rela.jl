@@ -1,7 +1,6 @@
 # +
 
-Erythrocyte
-
+RBC
 
 
 

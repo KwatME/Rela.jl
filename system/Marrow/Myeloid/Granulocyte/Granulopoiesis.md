@@ -6,4 +6,8 @@ Bone may be the source of the chemicals stored in the granules.
 
 # +
 
-Granulocyte
+Basophil
+
+Neutrophil
+
+Eosinophil

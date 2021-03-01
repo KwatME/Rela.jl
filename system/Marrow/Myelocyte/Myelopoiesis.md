@@ -1,7 +1,0 @@
-# {
-
-Granulopoiesis
-
-Erythropoiesis
-
-Thrombopoiesis

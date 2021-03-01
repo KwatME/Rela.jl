@@ -8,6 +8,4 @@ CD20
 
 # >
 
-Memory B
-
 Plasma B

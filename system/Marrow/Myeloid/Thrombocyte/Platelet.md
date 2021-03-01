@@ -14,6 +14,18 @@ Histamine
 
 Fibrosis
 
+
+
+
+
+
+
+
+
+
+
+
+
 ##
 
 Platelet =Contain=> Mitochondria, Actin
