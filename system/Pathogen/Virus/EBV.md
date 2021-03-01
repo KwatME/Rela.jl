@@ -1,8 +1,8 @@
 # "
 
-Epstein Barr virus
+Epstein Barr virus.
 
-Posterior lymphoadenopathy 
+Posterior lymphoadenopathy.
 
 # /
 
