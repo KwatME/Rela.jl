@@ -1,5 +1,9 @@
-##
+# +
 
-Liver =Function=> Erythropoiesis
+Protein C
 
-Liver =Make=> Transferrin, Ferritin, Hepcidin, TPO
+Protein S
+
+Antiplasmin
+
+Haptoglobin

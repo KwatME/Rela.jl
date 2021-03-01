@@ -1,7 +1,0 @@
-# {
-
-Hypersegmented Neutrophil
-
-# ^
-
-Platelet
