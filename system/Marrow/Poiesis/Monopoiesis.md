@@ -1,5 +1,0 @@
-# +
-
-Macrophage
-
-Dendritic Cell
