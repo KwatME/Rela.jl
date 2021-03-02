@@ -1,3 +1,0 @@
-##
-
-Yolk Sac =Function=> Erythropoiesis

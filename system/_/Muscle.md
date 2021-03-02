@@ -1,3 +1,0 @@
-##
-
-Myocyte =Make=> Ferritin

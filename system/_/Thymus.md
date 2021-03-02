@@ -1,3 +1,0 @@
-##
-
-Thymoma =Decrease=> Erythropoiesis
