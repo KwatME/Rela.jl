@@ -1,3 +1,0 @@
-##
-
-Autoimmunity =//=> Rash, Diarrhea, Bilirubin

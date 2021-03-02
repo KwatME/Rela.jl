@@ -2,13 +2,17 @@
 
 Immune thrombocytopenia.
 
+Plasma cells make anti-platelets.
+
+Can treat with anti-CD20 to decrease antibodies.
+
 Platelet lives for hours. 
 
 Post infectious in people less than 1 year old.
 
-If chronic, remove spleen.
+Results in the splenic red zone being more white because the macrophages are overwhelmed and phagocytose more platelet complex instead of RBCs.
 
-Can treat with anti-CD20 to decrease antibodies.
+If chronic, remove spleen.
 
 # +
 

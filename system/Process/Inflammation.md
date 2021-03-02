@@ -2,6 +2,8 @@
 
 Hepcidin
 
+Bilirubin
+
 # \
 
 Platelet
@@ -9,3 +11,7 @@ Platelet
 # ^
 
 Thrombosis
+
+Rash
+
+Diarrhea

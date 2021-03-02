@@ -1,3 +1,0 @@
-##
-
-Cancer =Increase=> Thrombosis
