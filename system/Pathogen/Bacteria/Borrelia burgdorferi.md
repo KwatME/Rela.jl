@@ -1,7 +1,7 @@
 # "
 
-Tick is the vector, like in Babesia
+Tick is the vector, like in Babesia.
 
 # ^
 
-Lyme disease
+Lyme Disease

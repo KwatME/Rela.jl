@@ -1,6 +1,6 @@
 # "
 
-Transports Fe across membrane
+Transports Fe across membrane.
 
 # /
 

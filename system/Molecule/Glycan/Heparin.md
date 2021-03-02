@@ -1,8 +1,8 @@
 # "
 
-Activates antithrombin more against factor 2
+Activates antithrombin more against factor 2.
 
-Given non-orally and monitored; reversible
+Given non-orally and monitored; reversible.
 
 # ^
 

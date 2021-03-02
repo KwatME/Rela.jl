@@ -1,6 +1,6 @@
 # "
 
-Binds free Hg, which is oxidizing
+Binds free Hg, which is oxidizing.
 
 # -
 

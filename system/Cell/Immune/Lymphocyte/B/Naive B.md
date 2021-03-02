@@ -1,6 +1,6 @@
 # "
 
-Exits marrow and goes to lymphnode.
+Exits marrow and goes to a lymphnode.
 
 # {
 

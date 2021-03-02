@@ -1,6 +1,6 @@
 # "
 
-Oxidized Hg or ferritin
+Oxidized Hg or ferritin.
 
 # ^
 

@@ -1,6 +1,6 @@
 # "
 
-Low bleeding risk
+Low bleeding risk.
 
 # \
 

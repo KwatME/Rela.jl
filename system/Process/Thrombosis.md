@@ -1,8 +1,10 @@
 # "
 
-Fibrosis in the blood vessel
+Fibrosis in the blood vessel.
 
 # ^
+
+DIC
 
 Hemolysis
 

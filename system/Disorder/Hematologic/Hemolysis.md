@@ -2,14 +2,6 @@
 
 RBC
 
-# ^
-
-Anemia
-
-Splenomegaly
-
-Gallstone
-
 # /
 
 Hg
@@ -21,3 +13,11 @@ Unconjugated Bilirubin
 # \
 
 Haptoglobin
+
+# ^
+
+Anemia
+
+Splenomegaly
+
+Gallstone

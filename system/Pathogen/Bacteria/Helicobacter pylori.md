@@ -1,6 +1,6 @@
 # "
 
-Infects stomach pylorus
+Infects stomach pylorus.
 
 # v
 

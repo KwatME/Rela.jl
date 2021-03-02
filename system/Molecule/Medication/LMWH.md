@@ -1,6 +1,6 @@
 # "
 
-Less reversible than heparin
+Less reversible than heparin.
 
 # ^
 

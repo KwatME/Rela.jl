@@ -1,6 +1,6 @@
 # "
 
-Exits marrow and goes to thymus.
+Exits marrow and goes to the thymus.
 
 # >
 

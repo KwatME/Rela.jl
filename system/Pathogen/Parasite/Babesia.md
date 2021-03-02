@@ -1,6 +1,6 @@
 # "
 
-Tick is the vector, like in Lyme disease
+Tick is the vector, like in Lyme disease.
 
 # ^
 

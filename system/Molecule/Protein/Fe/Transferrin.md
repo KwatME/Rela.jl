@@ -1,10 +1,10 @@
 # "
 
-Transports Fe
+Transports Fe.
 
-Increases when Fe is low
+Increases when Fe is low.
 
-Saturation decreases when its production is more than its use
+Saturation decreases when its production is more than its use.
 
 # \
 

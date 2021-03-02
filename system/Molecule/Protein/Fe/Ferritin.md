@@ -1,6 +1,6 @@
 # "
 
-Stores Fe++
+Stores Fe++.
 
 # >
 

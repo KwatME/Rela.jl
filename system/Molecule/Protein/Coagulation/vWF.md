@@ -1,11 +1,12 @@
 # "
 
-Binds to factor 8, collagen, and GP1b
+Stabilizes factor 8.
+Links collagen and GP1b.
+
+# /
+
+Factor 8a
 
 # ^
 
 Platelet
-
-# /
-
-Factor 8

@@ -6,7 +6,7 @@ Posterior lymphoadenopathy.
 
 # /
 
-T Cell
+T
 
 # ^
 

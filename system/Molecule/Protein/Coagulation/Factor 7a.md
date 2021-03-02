@@ -1,6 +1,6 @@
 # "
 
-Shorter half life than the other factors
+Shorter half life than the other factors.
 
 # /
 
