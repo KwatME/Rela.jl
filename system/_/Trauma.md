@@ -1,3 +1,0 @@
-##
-
-Trauma =Increase=> Hemolysis

@@ -1,3 +1,0 @@
-##
-
-Diarrhea ==> "Culture stool."
