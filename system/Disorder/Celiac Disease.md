@@ -1,7 +1,0 @@
-# \
-
-Ferritin
-
-# v
-
-Small Intestine

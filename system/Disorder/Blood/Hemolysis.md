@@ -21,3 +21,7 @@ Anemia
 Splenomegaly
 
 Gallstone
+
+Erythropoiesis
+
+Thrombopoiesis

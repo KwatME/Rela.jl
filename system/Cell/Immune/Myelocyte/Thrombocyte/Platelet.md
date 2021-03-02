@@ -32,8 +32,16 @@ Histamine
 
 Serotonin
 
+# \
+
+vWF
+
 # ^
 
 Fibrosis
 
 Thrombosis
+
+# v
+
+Hemorrhage

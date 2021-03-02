@@ -22,3 +22,11 @@ Fe
 # ^
 
 RDW
+
+Blood Pressure
+
+Pruritus
+
+Hepatomegaly
+
+Splenomegaly
