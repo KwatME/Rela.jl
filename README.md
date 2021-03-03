@@ -16,20 +16,33 @@ add(url="https://github.com/KwatME/Rela.jl")
 
 See [examples](notebook/example.ipynb).
 
-# " (comment)
+## Relationship
 
-# { (contain)
+### Specific
 
-# > (become)
+" (comment)
 
-# + (make)
+{ (contain)
 
-# - (break)
+\> (become)
 
-# / (increase amount)
+\+ (make)
 
-# \ (decrease amount)
+\- (break)
 
-# ^ (increase function)
+/ (increase amount)
 
-# v (decrease function)
+\ (decrease amount)
+
+^ (increase function)
+
+v (decrease function)
+
+### Association
+
+- Positive: {, >, +, /, ^,
+- Negative: -, \\, v
+
+## Design
+
+Be real, specific, minimal, and modular.
