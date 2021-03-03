@@ -1,4 +1,4 @@
-Module for relating elements in medicine.
+For relating elements.
 
 ## Install
 
