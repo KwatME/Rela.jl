@@ -1,3 +1,0 @@
-# "
-
-Retinoic acid receptor A.

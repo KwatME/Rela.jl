@@ -1,3 +1,0 @@
-# ^
-
-Macrocytic Anemia

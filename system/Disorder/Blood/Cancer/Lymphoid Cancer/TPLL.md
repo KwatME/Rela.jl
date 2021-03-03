@@ -1,5 +1,0 @@
-# "
-
-T prolymphocytic leukemia.
-
-Aggressive.

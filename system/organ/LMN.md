@@ -1,3 +1,0 @@
-# "
-
-Lower motor neuron.

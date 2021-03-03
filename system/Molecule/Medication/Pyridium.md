@@ -1,7 +1,0 @@
-# ^
-
-Oxidation
-
-# v
-
-Pain

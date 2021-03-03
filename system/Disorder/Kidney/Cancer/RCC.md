@@ -1,7 +1,0 @@
-# "
-
-Renal cell carcinoma.
-
-# /
-
-EPO

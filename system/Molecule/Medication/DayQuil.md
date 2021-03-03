@@ -1,7 +1,0 @@
-# {
-
-Dextromethorphan
-
-Acetaminophen
-
-Phenylephrine

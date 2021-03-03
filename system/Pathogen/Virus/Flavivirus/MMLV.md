@@ -1,3 +1,0 @@
-# "
-
-Montana myotis leukoencephalitis virus.

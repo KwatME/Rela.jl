@@ -1,5 +1,0 @@
-# ^
-
-ITP
-
-Hemolysis

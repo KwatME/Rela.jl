@@ -1,7 +1,0 @@
-# {
-
-Endothelial Cell
-
-# ^
-
-Blood Pressure

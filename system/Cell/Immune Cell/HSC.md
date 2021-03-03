@@ -1,9 +1,0 @@
-# >
-
-MPC
-
-LPC
-
-# \
-
-Anaplastic Anemia

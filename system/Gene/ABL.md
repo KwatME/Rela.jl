@@ -1,5 +1,0 @@
-# "
-
-Tyrosine kinase.
-
-Oncogene.

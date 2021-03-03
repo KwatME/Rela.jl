@@ -1,7 +1,0 @@
-# "
-
-Upper motor neuron.
-
-# \
-
-Spasticity

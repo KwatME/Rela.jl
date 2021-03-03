@@ -1,7 +1,0 @@
-# -
-
-RBC
-
-# ^
-
-Hemolysis

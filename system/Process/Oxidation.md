@@ -1,9 +1,0 @@
-# -
-
-Hg
-
-Fe
-
-# /
-
-Heinz Body

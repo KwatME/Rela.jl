@@ -1,9 +1,0 @@
-# "
-
-Polycythemia vera.
-
-# ^
-
-Erythropoiesis
-
-Myelofibrosis

@@ -1,7 +1,0 @@
-# "
-
-Similar to EPO.
-
-# ^
-
-Thrombopoiesis

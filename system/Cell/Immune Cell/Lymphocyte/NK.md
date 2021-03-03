@@ -1,3 +1,0 @@
-# "
-
-More similar to T.

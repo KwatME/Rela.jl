@@ -1,3 +1,0 @@
-# "
-
-Myeloproliferative neoplasms with eosinophilia.

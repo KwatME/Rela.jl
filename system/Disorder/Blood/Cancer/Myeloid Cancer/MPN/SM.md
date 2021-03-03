@@ -1,3 +1,0 @@
-# "
-
-Systemic mastocytosis.

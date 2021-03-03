@@ -1,7 +1,0 @@
-# ^
-
-Awakeness
-
-# v
-
-Appetite

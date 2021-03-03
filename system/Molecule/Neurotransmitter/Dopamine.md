@@ -1,3 +1,0 @@
-## \
-
-Parkinson Disease

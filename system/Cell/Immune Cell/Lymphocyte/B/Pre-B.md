@@ -1,9 +1,0 @@
-# {
-
-PAX
-
-TDT
-
-# >
-
-Naive B

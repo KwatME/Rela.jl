@@ -1,3 +1,0 @@
-# /
-
-Hypersegmented Neutrophil

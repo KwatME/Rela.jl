@@ -1,7 +1,0 @@
-# /
-
-Spherocyte
-
-# \
-
-RBC

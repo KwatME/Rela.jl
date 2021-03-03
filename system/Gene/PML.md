@@ -1,5 +1,0 @@
-# "
-
-Promyelocytic leukemia.
-
-Tumor suppressor.

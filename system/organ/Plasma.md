@@ -1,3 +1,0 @@
-# {
-
-Plasma Protein

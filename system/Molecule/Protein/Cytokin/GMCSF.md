@@ -1,9 +1,0 @@
-# ^
-
-Monopoiesis
-
-Granulopoiesis
-
-Erythropoiesis
-
-Thrombopoiesis

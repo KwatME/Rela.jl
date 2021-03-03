@@ -1,7 +1,0 @@
-# ^
-
-Macrocytic Anemia
-
-# v
-
-Thrombopoiesis
