@@ -38,6 +38,14 @@ See [examples](notebook/example.ipynb).
 
 v (decrease function)
 
+### Infered
+
+Folder { (Folder/* - (Cell/, Function/, Problem/))
+
+Folder ^ Folder/Function/*
+
+Folder/Problem/* v Folder
+
 ### Association
 
 - Positive: {, >, +, /, ^,
