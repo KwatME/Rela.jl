@@ -38,18 +38,18 @@ See [examples](notebook/example.ipynb).
 
 v (decrease function)
 
-### Infered
-
-Folder { (Folder/* - (Cell/, Function/, Problem/))
-
-Folder ^ Folder/Function/*
-
-Folder/Problem/* v Folder
-
 ### Association
 
 - Positive: {, >, +, /, ^,
 - Negative: -, \\, v
+
+### Infered
+
+Folder { Folder/..., except Cell/, Function/, and Problem/.
+
+Folder ^ Folder/Function/..., but a function.md can override this relationship.
+
+Folder/Problem/... v Folder, but a problem.md can override this relationship.
 
 ## Design
 
