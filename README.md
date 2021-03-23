@@ -51,6 +51,10 @@ Folder ^ Folder/Function/..., but a function.md can override this relationship.
 
 Folder/Problem/... v Folder, but a problem.md can override this relationship.
 
+### Rule
+
+Can not { an ancestor
+
 ## Design
 
 Be real, specific, minimal, and modular.
