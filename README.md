@@ -1,4 +1,4 @@
-For relating elements.
+For building .md network.
 
 ## Install
 
@@ -9,7 +9,7 @@ julia
 ```julia
 using Pkg: add
 
-add(url="https://github.com/KwatME/Rela.jl")
+add(url="https://github.com/KwatME/MDNetwork.jl")
 ```
 
 ## Use
@@ -45,16 +45,8 @@ v (decrease function)
 
 ### Infered
 
-Folder { Folder/..., except Cell/, Function/, and Problem/.
+Folder { Folder/..., except \_f/ and \_p/.
 
-Folder ^ Folder/Function/..., but a function.md can override this relationship.
+Folder ^ Folder/Function/..., but a \_f.md can override this relationship.
 
-Folder/Problem/... v Folder, but a problem.md can override this relationship.
-
-### Rule
-
-Can not { an ancestor
-
-## Design
-
-Be real, specific, minimal, and modular.
+Folder/\_p/... v Folder, but a \_p.md can override this relationship.
