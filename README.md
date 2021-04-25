@@ -1,5 +1,3 @@
-For building .md network.
-
 ## Install
 
 ```sh
@@ -9,7 +7,7 @@ julia
 ```julia
 using Pkg: add
 
-add(url="https://github.com/KwatME/MDNetwork.jl")
+add(; url="https://github.com/KwatME/MDNetwork.jl")
 ```
 
 ## Use
